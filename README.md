@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BotiTech
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python web development
-- 💞️ I’m looking to collaborate on Github
+- 🌱 I’m currently teaching python bot development.
+- 💞️ I’m teaching python.
 - 📫 How to reach me Discord: WufTheFurry#9999
 
 <!---
