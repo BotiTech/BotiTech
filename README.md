@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently teaching python bot development.
 - 💞️ I’m teaching python.
-- 📫 How to reach me Discord: WufTheFurry#9999
+- 📫 How to reach me Discord: Wuf#0705
 
 <!---
 BotiTech/BotiTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
