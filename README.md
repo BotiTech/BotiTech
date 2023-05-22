@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BotiTech
 - 👀 I’m interested in Programming
-- 🌱 I’m currently teaching python bot development.
-- 💞️ I’m teaching python.
-- 📫 How to reach me Discord: Wuf#0705
+- 🌱 I’m currently trying to get more knowledge & work experience.
+- 📫 How to reach me Discord: Lone#6768
 
 <!---
 BotiTech/BotiTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
